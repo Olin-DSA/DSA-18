@@ -4,7 +4,7 @@
 
 ### Teaching Team + NINJAs
 
-Your teachers are Ben Ziemann, David Abrahams, Nick Steelman, and Jingyi Xu. Your NINJAs are Shruti Iyer, Serena Chen, Jason Lan, and Erica Lee.
+Your teachers are Ben Ziemann, David Abrahams, Nick Steelman, and Jingyi Xu. Your NINJAs are Serena Chen, Jason Lan, Erica Lee, Will Thorbecke, and Kevin Zhang.
 
 ### Course Learning Goals
 
