@@ -37,9 +37,9 @@ sudo apt-get install oracle-java9-set-default
 Run `java -version` and ensure your output matches the following:
 
 ```
-java version "9.0.1"
-Java(TM) SE Runtime Environment (build 9.0.1+11)
-Java HotSpot(TM) 64-Bit Server VM (build 9.0.1+11, mixed mode)
+java version "9.0.4"
+Java(TM) SE Runtime Environment (build 9.0.4+11)
+Java HotSpot(TM) 64-Bit Server VM (build 9.0.4+11, mixed mode)
 ```
 
 ### Installing IntelliJ
