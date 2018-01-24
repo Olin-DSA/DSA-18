@@ -1,6 +1,6 @@
 public class HelloWorld {
     public static void main(String[] args) {
-        // Put a breakpoint on line 6. When the debugger stops there, choose "Step Into"
+        // Put a breakpoint on line 4. When the debugger stops there, choose "Step Into"
         debugPractice();
 
         // After you step out of debugPractice, you should end up here
