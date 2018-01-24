@@ -2,7 +2,7 @@
 
 ## Learning Goals and Student Input
 
-Help us get to know you and provide input to the class by filling out [this](https://docs.google.com/forms/d/1wdYzsTQbteRkYD9iGTCFSKpI1nB_p8A6Zm_uQ4gfM8k) Google form.
+Help us get to know you and provide input to the class by filling out [this](https://goo.gl/forms/iIcRZXaDP6nuO7fD2) Google form.
 
 ## Getting Set
 
@@ -79,7 +79,7 @@ Click OK. A new window should open. IntelliJ needs you to specify a place for it
 
 # Assignment Checklist
 
-- [ ] I've filled out [this](https://goo.gl/forms/TWGRY6YNQUNNqihx2) Google form to provide input and learning goals (also linked at the top of this README)
+- [ ] I've filled out [this](https://goo.gl/forms/iIcRZXaDP6nuO7fD2) Google form to provide input and learning goals (also linked at the top of this README)
 - [ ] Git is installed.
 - [ ] I've forked the DSA-18 repository using [these](./GitSetup.md) instructions
 - [ ] I've added the DSA-18 repository as an upstream remote
