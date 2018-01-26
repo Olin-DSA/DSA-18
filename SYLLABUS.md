@@ -23,8 +23,9 @@ This is class is a **4 credit Independent Study** (IS) in engineering. Note that
 ### Office Hours
 
 #### Monday <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **8-10PM** David & Erica <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **9-11PM** Willem & Serena
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **8-9PM** David & Erica <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **9-10PM** David, Erica, Willem & Serena <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **10-11PM** Willem & Serena
 
 #### Wednesday <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **8-10PM** Jingyi & Kevin
