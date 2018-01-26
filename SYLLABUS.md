@@ -22,7 +22,19 @@ This is class is a **4 credit Independent Study** (IS) in engineering. Note that
 
 ### Office Hours
 
-TBD
+#### Monday <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **8-10PM** David & Erica <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **9-11PM** Willem & Serena
+
+#### Wednesday <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **8-10PM** Jingyi & Kevin
+
+#### Thursday <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **8-10PM** Nick, Willem, Kevin & Jason
+
+#### Sunday <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **8-10PM** Ben, Serena
+
 
 If you need help and it's not during office hours, check out our Slack channel, [#dsa-18](https://olin.slack.com/messages/dsa-18). We advise using it over emailing us when you have code questions (but emailing us is great too). Other people might have the same questions, so using the Slack channel can help them out too.
 
