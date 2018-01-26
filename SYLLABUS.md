@@ -22,6 +22,8 @@ This is class is a **4 credit Independent Study** (IS) in engineering. Note that
 
 ### Office Hours
 
+Office hours are located in the first floor lounge of East Hall during the following times.
+
 #### Monday <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **8-9PM** David & Erica <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **9-10PM** David, Erica, Willem & Serena <br/>
