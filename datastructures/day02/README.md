@@ -13,7 +13,7 @@
 
 # Optional Resources
 
-- In *Think Algorithms*, read sections **4.1, 4.2, 5.4, and 5.5** which cover Linked Lists. Read section **6.6** which covers Stacks and Queues. Ignore the parts about "DFS", we'll learn about that later.
+- In [Think DAST](http://greenteapress.com/thinkdast/thinkdast.pdf), read sections **4.1, 4.2, 5.4, and 5.5** which cover Linked Lists. Read section **6.6** which covers Stacks and Queues. Ignore the parts about "DFS", we'll learn about that later.
 - The class [Google Drive](https://drive.google.com/drive/folders/1W8hPg5bVsUO5I9juJZdmYM5xYRnsIxIT?usp=sharing) has a ton of awesome resources from todays class. Included are two sets of lecture notes we wrote that you can refer to, powerpoint slides, and todays pset. Highly recommended you look through [this folder](https://drive.google.com/drive/folders/1MgFwOFICcBvi8hxBOAXQKWQZZ7OOgfa0?usp=sharing) if you are struggling with the assignment.
 
 # Assignment
