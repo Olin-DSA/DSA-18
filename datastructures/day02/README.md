@@ -20,7 +20,7 @@
 
 ## Code
 
-In this homework assignment, you will be implementing your own linked list, doubly-linked list, and pseudo priority queue. You will also augment the stack to support the `maxElement` operation. With each problem, we will add functionality to our classes to more closely match the real functionality of said data structures.
+In this homework assignment, you will be implementing your own doubly-linked list and pseudo priority queue. You will also augment the stack to support the `maxElement` operation. With each problem, we will add functionality to our classes to more closely match the real functionality of said data structures.
 
 ### Provided for you
 
