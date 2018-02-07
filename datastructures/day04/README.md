@@ -5,7 +5,7 @@
 Students will be able to:
 
 - Know how to use Maps in software engineering applications.
-- Create an efficient implementation of Java's `Map` interface using an array of `ArrayList`s of key-value pairs.
+- Create an efficient implementation of Java's `Map` interface using an array of `LinkedList`s of key-value pairs.
 - Understand the key concepts of hashing
   - Understand hash functions and considerations when creating them
   - Understand how a hash map chooses which bucket to place objects in
