@@ -33,7 +33,9 @@ Office hours are located in the first floor lounge of East Hall during the follo
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **8-10PM** Jingyi & Jason
 
 #### Thursday <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **8-10PM** Nick, Willem, Kevin & Erica
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **8-9PM** Willem, Kevin & Erica
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **9-10PM** Nick, Willem, Kevin & Erica
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **10-11PM** Nick
 
 #### Sunday <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **8-10PM** Ben, Serena
