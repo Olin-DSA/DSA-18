@@ -6,6 +6,7 @@ public class MergeSort extends SortAlgorithm {
     /**
      * This is the recursive step in which you split the array up into
      * a left and a right portion, sort them, and then merge them together.
+     * Use Insertion Sort if the length of the array is <= INSERTION_THRESHOLD
      *
      * TODO
      * Best-case runtime:
@@ -23,7 +24,6 @@ public class MergeSort extends SortAlgorithm {
     /**
      * Given two sorted arrays a and b, return a new sorted array containing
      * all elements in a and b. A test for this method is provided in `SortTest.java`
-     * Use Insertion Sort if the length of the array is <= INSERTION_THRESHOLD
      */
     public int[] merge(int[] a, int[] b) {
         // TODO
