@@ -20,6 +20,7 @@ By doing this assignment, you should be able to:
 * You can find our slides about heapsort [here](https://drive.google.com/open?id=1FymC42ujtVceMMYiw9Wa8vMU1ehTvf7uLgcyuIutN68).
 * [Princeton Algorithms lecture on binary heaps](https://www.youtube.com/watch?v=U_TfcSpQmNc)
 * [MIT lecture slides](https://drive.google.com/open?id=1A-T35tNHuOmlW4Y_u_65HMSGGzBsIljC) on Quicksort, which also covers why randomization guarantees O(NlogN) time. Corresponding lecture [here](https://www.youtube.com/watch?v=vK_q-C-kXhs)
+* Quick [stackexchange](https://cs.stackexchange.com/questions/35509/can-anybody-explain-intuitively-why-quick-sort-need-logn-extra-space-and-merge) covering space complexity of Quicksort vs Mergesort
 
 ## Assignment
 
