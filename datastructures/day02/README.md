@@ -14,7 +14,9 @@
 
 - In [Think DAST](http://greenteapress.com/thinkdast/thinkdast.pdf), read sections **4.1, 4.2, 5.4, and 5.5** which cover Linked Lists. Read section **6.6** which covers Stacks and Queues. Ignore the parts about "DFS", we'll learn about that later.
 
-- Our notes on Linked Lists and Stacks/Queues are [here](https://drive.google.com/open?id=19wmaQ2eLntO9mXKmJzc_b7luxj_7d603v0GXnZc_P18).
+- Our lecture notes on Linked Lists and Stacks/Queues are [here](https://drive.google.com/open?id=19wmaQ2eLntO9mXKmJzc_b7luxj_7d603v0GXnZc_P18).
+
+- Our slides on [LLs](https://docs.google.com/presentation/d/1_5Uz06Yw2P-CdXoP-j_D_RIVlP_y89wv7xjHdx4vzZ8/edit?usp=sharing) and [S+Q](https://docs.google.com/presentation/d/1EBnTBGXLrpecftsyOScBp8OPW4bcv5hdMZol789w33o/edit?usp=sharing)s.
 
 - Notes from UC Berkeley on [Linked Lists](https://drive.google.com/open?id=1czCHlwIhvMl-KkZon1hTiA6relpjfxkr) and [Stacks/Queues](https://drive.google.com/open?id=1NbfPaMdlokDTGlGVL20vynXECxfe0OfJ)
 
