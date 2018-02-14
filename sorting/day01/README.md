@@ -65,7 +65,7 @@ The code for the N^2 solution is provided in `Problems.java`. Can you do better?
 
 <details> 
   <summary>Hint 3</summary>
-    Store all the numbers before the median in one data-structure, and all the numbers after or equal to the median in another data-structure. Which data structure will allow you to quickly find the median each time you see a number, and to shift elements back-and-forth quickly?
+    Store all the numbers before or equal to the median in one data-structure, and all the numbers after the median in another data-structure. Which data structure will allow you to quickly find the median each time you see a number, and to shift elements back-and-forth quickly?
 </details>
 
 ## Getting Checked Off
