@@ -56,7 +56,7 @@ The code for the N^2 solution is provided in `Problems.java`. Can you do better?
 
 <details> 
   <summary>Hint 1</summary>
-    In order to find the median of an array, we only need to know the value of either one or two elements in the corresponding sorted array. For example, if currently we've seen elements `[4, 3, 1, 5, 2]`, we can maintain the sorted array `[1, 2, 3, 4, 5]` and quickly index into the middle to find the median, which is `3`. If we add a number (say, 4), then the sorted array becomes `[1, 2, 3, 4, 4, 5]`, and we look at the elements at indices `2` and `3` to calculate the median (which evaluates to `3.5`).
+    In order to find the median of an array, we only need to know the value of either one or two elements in the corresponding sorted array. For example, if currently we've seen elements `[4, 3, 1, 5, 2]`, we only need one element from the corresponding sorted array `[1, 2, 3, 4, 5]`, which is the one at index `2` (which is `3`). If we add a number (say, 4), then the sorted array becomes `[1, 2, 3, 4, 4, 5]`, and we only need to know the elements at indices `2` and `3` to calculate the median (which evaluates to `3.5`).
 </details>
 
 <details> 
