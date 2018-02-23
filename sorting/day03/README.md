@@ -68,7 +68,7 @@ Note the helper function `getNthCharacter(String s, int n)`. This returns the nt
   Take advantage of the fact that radix sort does not have be in base 10.
 </details>
 
-### Counting Swaps (Review)
+## Optional: Counting Swaps (Review)
 
 Given an array of integers, return the number of swaps that must be performed between adjacent indices to sort the array. Your solution should run in `O(n log(n))`. A sorted or empty array should return 0.
 
