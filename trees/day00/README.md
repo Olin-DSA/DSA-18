@@ -62,7 +62,7 @@ Think about how you would use recursion
 <summary>Hint 3</summary>
 Think about binary search and how you may apply it
 </details>
-2. Two trees T1 and T2 are isomorphic if T1 can be transformed to T2 by swapping left and right children of (some of) the nodes in T1. Write a function that determines if two trees are isomorphic. You are given their root nodes. Implement this in `Problems.isIsomorphic`. In the image below, the first, second and third binary trees are isomorphic with each other, while the last is not since the children of node 2 and 3 were switched. You can reference the image [here](https://drive.google.com/open?id=1VJaDcC_J4n-JGSptVUEIFtj4Ls3pbwwC).
+2. Two trees T1 and T2 are isomorphic if T1 can be transformed to T2 by swapping left and right children of (some of) the nodes in T1. Write a function that determines if two trees are isomorphic. You are given their root nodes. Implement this in `Problems.isIsomorphic`. In the image below, the first, second and third binary trees are isomorphic with each other, while the last is not since the children of node 2 and 3 were switched. 
 <details>
 <summary>Hint 1</summary>
 Try everything
@@ -73,6 +73,8 @@ Remember the the generic algorithm for BSTs? How can you tweak it to swap left a
 <details><summary>Hint 3</summary>
 If two tree are isomorphic, for each node in 1 of the trees there are 2 possibilities: the node's children are the same in the isomorphic version or they are switched. If we check for equality in both of these cases and one returns true, at least that node and its children are isomorphic (but what about the childrens' children?)
 </details>
+
+You can find a reference image [here](https://drive.google.com/open?id=1VJaDcC_J4n-JGSptVUEIFtj4Ls3pbwwC).
 
 ## Getting Checked Off
 Talk to a NINJA with your working test cases and BST drawing. Make sure you are prepared to explain your high-level solution to the problems **without looking through your code**. Feel free to draw out the steps of your algorithm beforehand if you feel like it would help.
