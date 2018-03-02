@@ -62,8 +62,7 @@ Think about how you would use recursion
 <summary>Hint 3</summary>
 Think about binary search and how you may apply it
 </details>
-2. Two trees T1 and T2 are isomorphic if T1 can be transformed to T2 by swapping left and right children of (some of) the nodes in T1. Write a function that determines if two trees are isomorphic. You are given their root nodes. Implement this in `Problems.isIsomorphic`. In the image below, the first, second and third binary trees are isomorphic with each other, while the last is not since the children of node 2 and 3 were switched.
-![alt text](Isomorphic.png)
+2. Two trees T1 and T2 are isomorphic if T1 can be transformed to T2 by swapping left and right children of (some of) the nodes in T1. Write a function that determines if two trees are isomorphic. You are given their root nodes. Implement this in `Problems.isIsomorphic`. In the image below, the first, second and third binary trees are isomorphic with each other, while the last is not since the children of node 2 and 3 were switched. You can reference the image [here](https://drive.google.com/open?id=1VJaDcC_J4n-JGSptVUEIFtj4Ls3pbwwC).
 <details>
 <summary>Hint 1</summary>
 Try everything
