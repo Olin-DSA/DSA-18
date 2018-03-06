@@ -24,7 +24,7 @@ By doing this assignment, you should be able to
 
 Either:
 
-Draw out an unbalanced tree and have a friend balance it
+Draw out an unbalanced tree and have a classmate balance it
 
 **or**
 
