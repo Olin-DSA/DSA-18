@@ -28,7 +28,7 @@ We recommend an AVLTree as a starting point, and have provided our solution in t
 
 <details>
   <summary>Hint 1: Optimal Complexities</summary>
-  rangeCount should run in O(log(N). indexRange should run in O(log(N) + L), where L = number of keys between [lo,  hi].
+  rangeCount should run in O(log(N). rangeIndex should run in O(log(N) + L), where L = number of keys between [lo,  hi].
 </details>
 
 <details>
@@ -42,7 +42,7 @@ We recommend an AVLTree as a starting point, and have provided our solution in t
 </details>
 
 <details>
-  <summary>Hint 4: `indexRange`</summary>
+  <summary>Hint 4: `rangeIndex`</summary>
   Your solution to this will look quite similar to an in-order-traversal.
 </details>
 
