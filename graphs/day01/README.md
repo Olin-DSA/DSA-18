@@ -19,7 +19,7 @@ Students should be able to:
 
 ## Permutations
 
-Given a `List` of integers `A`, return all possible permutations of that list. For example, given `[1, 2, 3]`, return:
+Given a `List` of unique integers `A`, return all possible permutations of that list. For example, given `[1, 2, 3]`, return:
 
 - [1, 2, 3]
 - [1, 3, 2]
