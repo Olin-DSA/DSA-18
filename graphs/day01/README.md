@@ -19,14 +19,14 @@ Students should be able to:
 
 ## Permutations
 
-Given a `List` of characters `A`, return all possible permutations of that list. For example, given `[E, A, T]`, return:
+Given a `List` of integers `A`, return all possible permutations of that list. For example, given `[1, 2, 3]`, return:
 
-- [E, A, T]
-- [E, T, A]
-- [A, T, E]
-- [A, E, T]
-- [T, E, A]
-- [T, A, E]
+- [1, 2, 3]
+- [1, 3, 2]
+- [2, 1, 3]
+- [2, 3, 1]
+- [3, 1, 2]
+- [3, 2, 1]
 
 ## N-Queens
 
