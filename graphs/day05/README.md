@@ -47,7 +47,15 @@ Alternatively, you can use the Rubik’s Cube class we provide. You will need to
 
 Your heuristic should provide information that quantifies how “solved” a Rubiks’s cube is. This information helps your algorithm to go to the right direction when exploring solution.
 
+**Stop reading now if you intend to do Option 1**
+
 In the provided RubiksCube class, a Rubik’s Cube is represented with a BitSet of size 72, where every 3 bits represents a block. Each of the 24 blocks stores a color, where colors are represented by a integer from 0-6. Each integer is converted into 3 bits in binary. For example, 0 is [0,0,0], and 6 is [1,1,0]. There are 24 blocks in total on a cube, and that’s why we need 24x3=72 bits.
+
+Each block is numbered as follows:
+
+![](https://i.imgur.com/7Qb7kz0.jpg)
+
+That is, [0, 21, 16] is one cubie, and [6, 11, 14] is another.
 
 The RubiksCube class contains following methods:
 
