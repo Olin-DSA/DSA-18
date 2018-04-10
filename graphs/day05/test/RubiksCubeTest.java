@@ -18,22 +18,22 @@ public class RubiksCubeTest {
     public void testUnsolved() {
         RubiksCube r = new RubiksCube();
         assertFalse(r.rotate('r').isSolved());
-        assertFalse(r.rotate('R').isSolved());
+        assertTrue(r.rotate('R').isSolved());
         assertFalse(r.rotate('u').isSolved());
-        assertFalse(r.rotate('U').isSolved());
+        assertTrue(r.rotate('U').isSolved());
         assertFalse(r.rotate('f').isSolved());
-        assertFalse(r.rotate('F').isSolved());
+        assertTrue(r.rotate('F').isSolved());
     }
 
     @Test
     public void testRotatesDoNotModify() {
         RubiksCube r = new RubiksCube();
         r.rotate('r');
-        assertTrue(r.isSolved());
+        assertFalse(r.isSolved());
         r.rotate('f');
-        assertTrue(r.isSolved());
+        assertFalse(r.isSolved());
         r.rotate('u');
-        assertTrue(r.isSolved());
+        assertFalse(r.isSolved());
     }
 
     @Test
@@ -77,6 +77,8 @@ public class RubiksCubeTest {
         assertEquals(r1.rotate(lowercase).rotate(lowercase), r2.rotate(uppercase).rotate(uppercase));
         // opposite rotations do not produce equal cubes
         assertNotEquals(r1.rotate(lowercase), r2.rotate(uppercase));
+        r1.rotate(uppercase);
+        r2.rotate(lowercase);
         // three rotates in one direction is one rotate in the other
         assertEquals(r1.rotate(lowercase).rotate(lowercase).rotate(lowercase), r2.rotate(uppercase));
         assertEquals(r1.rotate(uppercase).rotate(uppercase).rotate(uppercase), r2.rotate(lowercase));
