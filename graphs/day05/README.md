@@ -21,7 +21,6 @@ Congrats on solving the 8-puzzle! We now have another classic challenge for you:
     * Rotate the front  face counterclockwise: **F**
     * Rotate the upper face counterclockwise: **U**
     * Rotate the right face counterclockwise: **R**
-    * Note that these are standard terminology in the Cube Solving community.
 * Solved - When every face is composed of four blocks of the same color.
 
 ![](https://i.imgur.com/1XeMT1L.png)
@@ -45,7 +44,7 @@ The tradeoff comes in that instead of writing an A* solution, you just need to i
 
 Alternatively, you can use the Rubik’s Cube class we provide. You will need to understand how it works (refer to the slides). You will come up with your own heuristic and implement an A* solution (or some other interesting algorithm). Your algorithm should solve the Rubik’s cube faster and more efficiently than a BFS approach.
 
-Your heuristic should provide information that quantifies how “solved” a Rubiks’s cube is. This information helps your algorithm to go to the right direction when exploring solution.
+Your heuristic should provide information that quantifies how “solved” a Rubiks’s cube is. This information helps your algorithm to go to the right direction when exploring solutions.
 
 **Stop reading now if you intend to do Option 1**
 
