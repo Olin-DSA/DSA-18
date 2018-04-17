@@ -39,25 +39,25 @@ An arrow can be shot up exactly vertically from different points along the x-axi
 %%%%% PROBLEM 2  %%%%%
 \item Given a string of characters, use the greedy approach to find the best possible encoding of each character such that the encoded binary output uses the fewest number of bits.
 
-For example, given "Steelman eats an eel", the most efficient way to encode each letter is:
+For example, given "Steelman eats an eel", one of the most efficient ways to encode each letter is:
 \begin{center}
  \begin{tabular}{||c c||}
  \hline
  Letter & Code  \\ [0.5ex]
  \hline\hline
- e & 0  \\
+ e & 01  \\
  \hline
- a & 1  \\
+ a & 11  \\
  \hline
- s & 10 \\
+ s & 001 \\
  \hline
- l & 11 \\
+ l & 101 \\
   \hline
  t & 100 \\
   \hline
- n & 101 \\
+ n & 0001 \\
  \hline
- m & 110\\ [1ex]
+ m & 0000\\ [1ex]
  \hline
 
 \end{tabular}
