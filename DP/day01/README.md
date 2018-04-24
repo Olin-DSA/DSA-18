@@ -10,7 +10,7 @@
 
 ## Solutions
 
-Choose one of the problems below to do in the top-down method, one in the bottom-up method, and the last however you choose. Like last homework, be prepared to explain the 5 steps of Dynamic Programming for each problem (Identify subproblems, guess, recurrence relation, memoize/DP, solve original problem)
+Choose one of the problems below to do in the top-down method, one in the bottom-up method, and the last however you choose. Like last homework, be prepared to explain the 5 steps of Dynamic Programming for each problem (Identify subproblems, guess solution, recurrence relation, memoize/DP array, solve original problem)
 
 ## Splitting coins
 
