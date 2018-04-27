@@ -124,5 +124,5 @@ isMatch("aab", "c*a*b") → true
 
 <details>
   <summary>Hint 3</summary>
-  For your subproblem, think about: "Does `s[:i]`` match `p[:j]`?" What if `p[j]` is a `.`? What if its a `*`?
+  For your subproblem, think about: "Does `s[:i+1]`` match `p[:j+1]`?" What if `p[j]` is a `.`? What if its a `*`?
 </details>
