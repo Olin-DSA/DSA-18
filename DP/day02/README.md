@@ -60,6 +60,37 @@ where:
   Keep an array separate from your `DP` memo, `nextBreak`, where `nextBreak[i]` represents the optimal place to put the next line break, if there is a line break before `w[i]`.
 </details>
 
+### Regex Matching
+Write a function that implements regular expression matching for `'.'` and `'*'`. `'.'` matches any single character, while `'*'` matches 0 or more of the preceding character. The matching should cover the entire input string. Your inputs will be `s`, the input string, and `p`, the regular expression.
+
+For example:
+
+```
+isMatch("aa","a") → false
+isMatch("aa","aa") → true
+isMatch("aaa","aa") → false
+isMatch("aa", "a*") → true
+isMatch("aa", ".*") → true
+isMatch("ab", ".*") → true
+isMatch("aab", "c*a*b") → true
+```
+
+<details>
+  <summary>Hint 1</summary>
+  Think about edit distance from the last homework
+</details>
+
+<details>
+  <summary>Hint 2</summary>
+  Try drawing out a 2D matrix (like in edit distance) with its axes being indexes into the string and the regex.
+</details>
+
+<details>
+  <summary>Hint 3</summary>
+  For your subproblem, think about: "Does `s[:i+1]`` match `p[:j+1]`?" What if `p[j]` is a `.`? What if its a `*`?
+</details>
+
+
 ### Balloon Popping
 You are given a list `B` of balloons. Each balloon is worth a specified amount of points represented by its value in the list. You must find the maximum value you can achieve by popping the balloons in the optimal order.
 
@@ -94,35 +125,4 @@ Return 115
 <details>
   <summary>Hint 4</summary>
   Your given problem becomes a subproblem in hint 2 if you pad the outside with 1s.
-</details>
-
-
-### Regex Matching
-Write a function that implements regular expression matching for `'.'` and `'*'`. `'.'` matches any single character, while `'*'` matches 0 or more of the preceding character. The matching should cover the entire input string. Your inputs will be `s`, the input string, and `p`, the regular expression.
-
-For example:
-
-```
-isMatch("aa","a") → false
-isMatch("aa","aa") → true
-isMatch("aaa","aa") → false
-isMatch("aa", "a*") → true
-isMatch("aa", ".*") → true
-isMatch("ab", ".*") → true
-isMatch("aab", "c*a*b") → true
-```
-
-<details>
-  <summary>Hint 1</summary>
-  Think about edit distance from the last homework
-</details>
-
-<details>
-  <summary>Hint 2</summary>
-  Try drawing out a 2D matrix (like in edit distance) with its axes being indexes into the string and the regex.
-</details>
-
-<details>
-  <summary>Hint 3</summary>
-  For your subproblem, think about: "Does `s[:i+1]`` match `p[:j+1]`?" What if `p[j]` is a `.`? What if its a `*`?
 </details>
