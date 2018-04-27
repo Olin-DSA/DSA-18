@@ -78,7 +78,7 @@ Return 115
 
 <details>
   <summary>Hint 1</summary>
-  For your guess, think about it what the *last* balloon you want to pop is.
+  For your guess, think about where the *last* balloon you want to pop is.
 </details>
 
 <details>
