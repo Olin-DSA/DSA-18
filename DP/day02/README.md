@@ -1,6 +1,6 @@
 # Dynamic Programming - Day02
 
-**This assignment is due Tues, May 1st**
+**This assignment is due Thursday night, May 3rd**
 
 ## Learning Goals
 - Practice dynamic programming problem solving steps
