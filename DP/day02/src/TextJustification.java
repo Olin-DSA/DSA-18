@@ -15,11 +15,7 @@ public class TextJustification {
         return Math.pow(m-length, 3);
     }
 
-    public static List<Integer> justifyTextBU(String[] w, int m) {
-        return null;
-    }
-
-    public static List<Integer> justifyTextTD(String[] w, int m) {
+    public static List<Integer> justifyText(String[] w, int m) {
         return null;
     }
 
